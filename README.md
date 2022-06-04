@@ -1,4 +1,4 @@
-  <h1 align="right">الواجب 2 </h1>
+  <h1 align="right">الواجب 3 </h1>
 
 <p dir="rtl">
 <img src="/hw3-1.gif" width="200" alt="alt_text" title="image_tooltip">

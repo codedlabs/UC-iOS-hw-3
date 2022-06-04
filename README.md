@@ -1,7 +1,7 @@
   <h1 align="right">الواجب 2 </h1>
 
 <p dir="rtl">
-<img src="/hw2-1.gif" width="200" alt="alt_text" title="image_tooltip">
+<img src="/hw3-1.gif" width="200" alt="alt_text" title="image_tooltip">
 </p>
 
 
@@ -84,5 +84,5 @@ var purchases : String   ->  var purchases : [String]
 
 
 <p dir="rtl">
-<img src="/hw2-1.gif" width="200" alt="alt_text" title="image_tooltip">
+<img src="/hw3-2.gif" width="200" alt="alt_text" title="image_tooltip">
 </p>
